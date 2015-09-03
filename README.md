@@ -3,6 +3,8 @@
 
 this is my first github app
 
+this is some thing
+
 > what can we do using github?
 > what's the diff with svn?
 
